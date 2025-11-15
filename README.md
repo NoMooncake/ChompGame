@@ -20,9 +20,7 @@ GitHub Repository: https://github.com/NoMooncake/ChompGame
 
 ## Demo Screenshot
 
-```
 ![Chomp Game Screenshot](docs/screenshot.png)
-```
 
 ---
 
