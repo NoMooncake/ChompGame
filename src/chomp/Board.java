@@ -2,8 +2,6 @@
  * -----------------------------------------------------------------------------
  * File Name: Board.java
  * Project: ChompGame
- * Description:
- * [Add brief description here]
  * <p>
  * Author: Yue Wu
  * Date: 2025/11/15
